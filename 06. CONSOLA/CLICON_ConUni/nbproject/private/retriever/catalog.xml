@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" uri="docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd"/>
+    <system systemId="http://schemas.xmlsoap.org/wsdl/" uri="schemas.xmlsoap.org/wsdl/index"/>
+    <system systemId="http://www.w3.org/2007/05/addressing/metadata" uri="www.w3.org/2007/05/addressing/metadata/index.xsd"/>
+    <system systemId="http://schemas.xmlsoap.org/wsdl/soap/" uri="schemas.xmlsoap.org/wsdl/soap/index"/>
+    <system systemId="http://www.w3.org/ns/ws-policy" uri="www.w3.org/ns/ws-policy/index"/>
+    <system systemId="http://schemas.xmlsoap.org/ws/2004/09/policy" uri="schemas.xmlsoap.org/ws/2004/09/policy"/>
+</catalog>

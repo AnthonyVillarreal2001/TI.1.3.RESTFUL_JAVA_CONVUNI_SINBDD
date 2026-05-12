@@ -1,0 +1,5 @@
+ec\edu\monster\controlador\LoginServlet.class
+ec\edu\monster\controlador\WS_CONVUNI_CONTROLLER.class
+ec\edu\monster\clienteweb_convuni\resources\JakartaEE10Resource.class
+ec\edu\monster\vista\WS_CONVUNI_VISTA.class
+ec\edu\monster\clienteweb_convuni\JakartaRestConfiguration.class
