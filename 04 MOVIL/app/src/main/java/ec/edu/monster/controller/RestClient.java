@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
 
 public class RestClient {
 
-    private static final String BASE_URL = "http://10.0.2.2:8080/WS_ConUni_RESTFULLJAVA_GR08/api/conversion/";
+    private static final String BASE_URL = "http://10.40.25.115:8080/WS_ConUni_RESTFULLJAVA_GR08/api/conversion/";
 
     private static final OkHttpClient client = new OkHttpClient.Builder()
             .connectTimeout(30, TimeUnit.SECONDS)
